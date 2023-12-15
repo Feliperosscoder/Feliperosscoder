@@ -4,6 +4,8 @@
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feliperosscoder&show_icons=true&theme=dracula)
 
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Feliperosscoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"> <br/> 
