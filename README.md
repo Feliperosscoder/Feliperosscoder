@@ -11,7 +11,6 @@
 <p>Meu nome é Felipe, tenho 17 anos e atualmente estou no 3º ano de Ensino Médio, me formalizando em Técnico de Informática pelo Cedup - Abílio Paulo. Conheci a área de programação através de um parente meu que me mostrou um pouco do que ele faz e me apaixonei nesse mundo imediatamente. Desde então, eu começei a estudar e me aprofundar nessa área sempre aprendendo e melhorando meus conhecimentos de programação, desenvolvendo desafios, projetos, cursos e muito mais. 
 Falando um pouco mais fora da área, gosto muito de ver e conversar sobre filme, séries, animes, etc. Sou bastante amigável, e gosto de ficar perto de quem eu gosto!</p>
 
----
 ⚙️ Tecnologias
 ---
 <p>Falando um pouco mais das tecnologias que uso no meu dia a dia, opto pelo javascript, pois é uma linguagem que está em praticamente todo mercado e é a base da programação iniciante. Aprofundando no JS, gosto muito de React juntamente com Typescript, por ser um conjunto que permite criar interfaces web's que permite uma comunicação legal com o usuário, e um código mais preciso por causa da tipagem forte. Entrando mais na parte de estilização, gosto de mais o tailwindcss por ser uma ferramenta extremamante simples de se entender e muito mais livre do outras ferramentas, como o bootstrap. Na parte de Bando de Dados, tenho um conhecimento razo em mySql, devido as aulas técnicas da escola. Mas juntando com o Node.js, aumentando meu conhecimento de CRUD.</p>
